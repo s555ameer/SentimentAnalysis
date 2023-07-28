@@ -1,2 +1,2 @@
-# CommentToxicityClassifier
-The Comment Toxicity Classifier is a system designed to automatically identify toxic comments in user-generated content. Its purpose is to promote a safer and more respectful online environment by filtering out harmful and offensive comments.
+# SentimentAnalysisUsingTextdata
+The "Sentiment Analysis Using Text Data" project aims to automatically analyze and categorize sentiments (positive, negative,) in text data. It uses machine learning models and NLP techniques to process the data and predict sentiments. The system finds applications in business insights, social media monitoring, market research, and political analysis.
